@@ -1,0 +1,88 @@
+POWERSHELL 
+cmdlets
+alias 
+windows native command
+unix
+
+set-location c:\
+
+get-alias 
+
+get-help 
+
+Help file  
+e.g. get-help *ipaddress*   
+
+get-help get-process -Detailed
+-example detailed help with examples 
+
+
+get-help get-service -ShowWindow  
+-get help in another console 
+
+Syntax with [] = not required 
+
+syntax with multiple [[]] = positional 
+
+
+how to extend comdlets = snap-ins
+
+
+mmc =  console root > file > add or remove snap-ins 
+
+Active Directory snap-ins. There's a reason for that. I have Active Directory once because I installed the Remote Server Administration Tools, the RSAT tools. 
+Now, I don't know if you've installed those on your management box,
+
+***
+ installed the Remote Server Administration Tools, the RSAT tools
+
+  get-module  -listavailable     =   list of install/available snapins 
+  import-module -name ActiveDirectory    =   import the module
+  get-command -module activedirectpry   = list of avaiable commands
+  get-help get-* *
+
+   get-help *module* = microsoft respository (PSGallery)
+   
+		Find-Module = one first use requires nuget download 
+   
+			Install-Module PSReadline   =   help you  with console
+	
+			Import-Module PSReadline    = has to be imported in order to use it 
+			
+			 Set-PSReadlineOption -EditMode Emacs   =   allows overview rather than the usual ps list/grid view 
+	 
+	Stop-Service -name bits = stops the services 
+	Get-Service -name bits
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+   
+   
+   
+   
+  

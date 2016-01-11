@@ -1,0 +1,89 @@
+Notification 
+
+REST Test every sprint
+
+All automation 
+
+Light regression on SL + GL 
+
+Records for transparency  
+
+
+Rashmi n Bhawana come up with a light regression script (test plan)
+Record to vista 
+Cancel some items
+
+Please find the Intercall Conference Number details:
+
+Std International Dial-In Number: +44 (0) 3306 068934
+
+Participant Conference Code: 4782640469
+
+Leader Conference Code: 3928559217
+
+
+Planning meeting 
+SCD > release to transition > 
+
+Someone adds a member with additional comments > add test to full or regression 
+Move cards that doesnt require testing to complete 
+
+Completed test release is moved to the archive 
+ 
+ 
+ Time sheet ----- Records Days 
+
+End of month calculation?????
+
+Investigate sync calender..... days off
+
+cc Caroline in to keep update 
+
+work request
+
+MSE-BSG Testing 
+
+service now> work request > my group works????
+
+Requests by email need to goes to Service now 
+
+Strategy for end of the month 
+
+Edit reports as necessary 
+
+Email...... quick reply necessary (Habit)
+
+Read.......management books (team management) 
+
+Meeting.......action points from each one > summary & cc Caroline 
+
+
+
+the scope of the project
+the limitation of the tool
+how much the tool costs
+the tool’s usability and convenience
+the testing environment
+compatibility
+
+
+Assuming day to day QA team management, in addition to assigned testing responsibilities for Palgrave HE CRM and Atlas Data Loader projects. Whilst scheduling any new testing requests i.e. those other than Supply Chain Sprint testing e.g. Palgrave.com
+
+Managing QA Team holiday , wfh requests, sickness, training etc. Also reporting QA team activities to Ian Hackett via Service Delivery Status Report each month
+
+
+attend the daily scrum, fortnightly planning and retrospective. Whilst supervising coordinates the sprint testing tasks for Rashmi and Bhawna via the Trello board
+
+clear any blockers with the test/staging environment
+
+Respond promptly to any communication from the team/line manager e.g sickness, wfh, holidays
+
+Raise any issues with QA team scheduling in weekly one-to-one with myself and Ian
+
+moment is to find someone who can update/create test automation scripts in selenium.
+
+
+
+
+
+
